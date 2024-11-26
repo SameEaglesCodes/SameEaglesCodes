@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SameEaglesCodes
+- 👀 I’m interested in Nix, home labs and Ruby on Rails
+- 🌱 I’m currently learning Nix.
+- 💞️ I’m willing to collaborate
+- 📫 How to reach me: email me at my username at gmail dot com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I just bought a house with my partner and I am looking at getting into home repairs.
